@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2024.12.21.0" projectFile="C:\Users\sashi\OneDrive\Desktop\Help.shfbproj" started="1/14/2025 3:26:13 PM">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2024.12.21.0" projectFile="C:\Users\sashi\OneDrive\Desktop\Help.shfbproj" started="1/14/2025 4:06:20 PM">
 <buildStep step="Initializing">
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder&#39;
 Locating components in the following folder(s):
@@ -25,18 +25,18 @@ Copying XML comments files
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
-    Last step completed in 00:00:00.0069
+    Last step completed in 00:00:00.0045
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0171
+    Last step completed in 00:00:00.0150
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
-[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-4e6c80fd-4fd4-48ae-993b-912619fc65e9.proj]
-Build started 1/14/2025 3:26:15 PM.
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-b9aa98f7-7b54-4da4-9538-a8e4729cac49.proj]
+Build started 1/14/2025 4:06:22 PM.
 
-Project &quot;C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-4e6c80fd-4fd4-48ae-993b-912619fc65e9.proj&quot; on node 1 (default targets).
+Project &quot;C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-b9aa98f7-7b54-4da4-9538-a8e4729cac49.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
 GenerateRefInfo:
@@ -46,39 +46,39 @@ GenerateRefInfo:
   Loaded 1 assemblies for reflection and 1 dependency assemblies.
   Using framework redirect &#39;System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089&#39; in place of &#39;System.Windows.Forms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089&#39;
   Using framework redirect &#39;System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089&#39; in place of &#39;System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089&#39;
-MRefBuilder : warning : Ignoring unresolved assembly reference: System.Drawing.Primitives (System.Drawing.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by ASE Component 1 [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-4e6c80fd-4fd4-48ae-993b-912619fc65e9.proj]
-MRefBuilder : warning : Ignoring unresolved assembly reference: System.Drawing.Common (System.Drawing.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51) required by ASE Component 1 [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-4e6c80fd-4fd4-48ae-993b-912619fc65e9.proj]
-MRefBuilder : warning : Ignoring unresolved assembly reference: System.Collections.NonGeneric (System.Collections.NonGeneric, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by ASE Component 1 [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-4e6c80fd-4fd4-48ae-993b-912619fc65e9.proj]
-MRefBuilder : warning : Ignoring unresolved assembly reference: System.ComponentModel.Primitives (System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by ASE Component 1 [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-4e6c80fd-4fd4-48ae-993b-912619fc65e9.proj]
-MRefBuilder : warning : Ignoring unresolved assembly reference: System.Collections.NonGeneric (System.Collections.NonGeneric, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by BOOSE [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-4e6c80fd-4fd4-48ae-993b-912619fc65e9.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Drawing.Primitives (System.Drawing.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by ASE Component 1 [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-b9aa98f7-7b54-4da4-9538-a8e4729cac49.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Drawing.Common (System.Drawing.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51) required by ASE Component 1 [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-b9aa98f7-7b54-4da4-9538-a8e4729cac49.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Collections.NonGeneric (System.Collections.NonGeneric, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by ASE Component 1 [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-b9aa98f7-7b54-4da4-9538-a8e4729cac49.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.ComponentModel.Primitives (System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by ASE Component 1 [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-b9aa98f7-7b54-4da4-9538-a8e4729cac49.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Collections.NonGeneric (System.Collections.NonGeneric, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by BOOSE [C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-b9aa98f7-7b54-4da4-9538-a8e4729cac49.proj]
   Using framework redirect &#39;System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
   Using framework redirect &#39;Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
   Wrote information on 1 namespaces, 23 types, and 90 members
   Merging duplicate type and member information
   Merged 0 duplicate type(s) and 0 duplicate member(s)
-Done Building Project &quot;C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-4e6c80fd-4fd4-48ae-993b-912619fc65e9.proj&quot; (default targets).
-    Last step completed in 00:00:02.1389
+Done Building Project &quot;C:\Users\sashi\OneDrive\Desktop\Help\Working\GenerateRefInfo-b9aa98f7-7b54-4da4-9538-a8e4729cac49.proj&quot; (default targets).
+    Last step completed in 00:00:01.5977
 </buildStep>
 <buildStep step="ApplyDocumentModel">
 Applying document model to reflection output...
-    Last step completed in 00:00:00.1882
+    Last step completed in 00:00:00.1812
 </buildStep>
 <buildStep step="AddApiTopicFilenames">
 Adding topic filenames to API members...
-    Last step completed in 00:00:00.1773
+    Last step completed in 00:00:00.1538
 </buildStep>
 <buildStep step="GenerateApiTopicManifest">
 Generating API topic manifest...
-    Last step completed in 00:00:00.1503
+    Last step completed in 00:00:00.1442
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0538
+    Last step completed in 00:00:00.0350
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00.0030
+    Last step completed in 00:00:00.0020
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
@@ -87,22 +87,22 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file for API content...
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.0502
+    Last step completed in 00:00:00.0577
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
-    Last step completed in 00:00:00.5741
+    Last step completed in 00:00:00.1995
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0103
+    Last step completed in 00:00:00.0100
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 C:\Users\sashi\OneDrive\Desktop\Help\Working\BuildAssembler.config
   Updating reference topic configurations.
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00.0190
+    Last step completed in 00:00:00.0150
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
@@ -1647,7 +1647,6 @@ SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:ASE_Component_1.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:ASE_Component_1.AppMethod.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:ASE_Component_1.AppMethod.Compile] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:ASE_Component_1.AppMethod.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
-SHFB: Warning BE0066: ShowMissingComponent: [T:ASE_Component_1.AppParser] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:ASE_Component_1.AppParser] Unknown reference link target &#39;T:BOOSE.IParser&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:ASE_Component_1.AppParser.ParseCommand(System.String)] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
 SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:ASE_Component_1.AppParser.ParseCommand(System.String)] Unknown reference link target &#39;M:BOOSE.IParser.ParseCommand(System.String)&#39;.
@@ -2343,12 +2342,12 @@ SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:ASE_Component_1.AppWrit
 SHFB: Warning BE0066: ShowMissingComponent: [F:ASE_Component_1.Form1.DebugWindow] Missing &lt;summary&gt; documentation
 SHFB: Warning BE0066: ShowMissingComponent: [M:ASE_Component_1.Form1.LogMessage(System.String)] Missing &lt;param name=&quot;message&quot;/&gt; documentation
 Processed 188 topic(s)
-2232 warning(s)
+2231 warning(s)
 CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 3 of 15.
 CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 4 of 30.
 <plugIn name="Website Table of Contents Generator" behavior="After" priority="1000">
 Generating TOC fragment files
-</plugIn>    Last step completed in 00:00:07.4707
+</plugIn>    Last step completed in 00:00:06.3732
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -2384,26 +2383,26 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Defaul
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.inc.php -&gt; C:\Users\sashi\OneDrive\Desktop\Help\Working\Output\Website\SearchHelp.inc.php
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.php -&gt; C:\Users\sashi\OneDrive\Desktop\Help\Working\Output\Website\SearchHelp.php
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\Web.Config -&gt; C:\Users\sashi\OneDrive\Desktop\Help\Working\Output\Website\Web.Config
-    Last step completed in 00:00:00.2366
+    Last step completed in 00:00:00.0930
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
-    Last step completed in 00:00:00.3566
+    Last step completed in 00:00:00.2816
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 307 files for the website content
-    Last step completed in 00:00:00.2324
+    Last step completed in 00:00:00.2502
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.0300
+    Last step completed in 00:00:00.0330
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 1/14/2025 3:26:26 PM.  Total time: 00:00:13.2549
+Build completed successfully at 1/14/2025 4:06:32 PM.  Total time: 00:00:11.2582
 
 </buildStep>
 </shfbBuild>
